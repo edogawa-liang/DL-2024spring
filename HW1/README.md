@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Deep Learning (2024spring) – Assignment I
 ## Image Classification with Multiple Models and Features
 
@@ -20,7 +19,3 @@ This project showcases a complete image classification task workflow through the
 
 ---
 
-=======
-# DL-2024spring
-Deep Learning Homework
->>>>>>> 055a2d8b929c55d00507dab47ad06af07069c91a
